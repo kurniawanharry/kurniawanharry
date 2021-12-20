@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kurniawanharry
+- 👋 Hi, I’m Harry Kurniawan
 - 👀 I’m interested in Flutter Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter Project
